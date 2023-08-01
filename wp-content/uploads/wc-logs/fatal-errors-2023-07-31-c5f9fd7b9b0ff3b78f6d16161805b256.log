@@ -1,0 +1,8 @@
+2023-07-31T06:17:36+00:00 CRITICAL Cannot redeclare data_fetch() (previously declared in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php:992) in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php on line 1060
+
+2023-07-31T06:19:17+00:00 CRITICAL Cannot redeclare data_fetch() (previously declared in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php:992) in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php on line 1060
+
+2023-07-31T06:19:25+00:00 CRITICAL Cannot redeclare data_fetch() (previously declared in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php:992) in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php on line 1060
+
+2023-07-31T06:19:36+00:00 CRITICAL Cannot redeclare data_fetch() (previously declared in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php:992) in /opt/lampp/htdocs/acf/wp-content/themes/twentytwentyone/functions.php on line 1060
+
